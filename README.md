@@ -13,7 +13,7 @@ The visualization has shown below.
 ### Merge
 
 In this question, I selected merge environment, the running training and testing process are in "homework answer/sb3_highway_merge_dqn.html"
-The comments in baseline code could be found in "homework answer/sb3_highway_dqn.ipynb".
+The comments in baseline code could be found in "homework answer/sb3_merge_dqn.ipynb".
 The visualization of the testing result has shown below.
 <p align="center">
     <img src="homework_answer/merge.gif?raw=true"><br/>

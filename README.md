@@ -18,10 +18,21 @@ The visualization has shown below.
     <img src="homework_answer/merge.gif?raw=true"><br/>
     <em>The merge environment.</em>
 </p>
-## Training process
+#### Training process
 <p align="center">
     <img src="homework_answer/ep_len_mean.png?raw=true"><br/>
-    <em>The merge environment.</em>
+    <em>ep_len_mean.</em>
 </p>
-
+<p align="center">
+    <img src="homework_answer/ep_raw_mean.png?raw=true"><br/>
+    <em>ep_raw_mean.</em>
+</p>
+<p align="center">
+    <img src="homework_answer/exploration_rate.png?raw=true"><br/>
+    <em>exploration rate.</em>
+</p>
+<p align="center">
+    <img src="homework_answer/time_fps.png?raw=true"><br/>
+    <em>time.</em>
+</p>
 

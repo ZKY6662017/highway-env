@@ -3,7 +3,7 @@
 
 
 ### SB3’s DQN
-The visualization and results of SB3's DQN could be found in "homework answer/sb3_highway_dqn.html"
+The visualization and results of SB3's DQN are in "homework answer/sb3_highway_dqn.html"
 The visualization has shown below.
 <p align="center">
     <img src="homework_answer/highway.gif?raw=true"><br/>
@@ -12,7 +12,7 @@ The visualization has shown below.
 
 ### Merge
 
-In this question, I selected merge environment, the running training and testing process could be found in "homework answer/sb3_highway_merge_dqn.html"
+In this question, I selected merge environment, the running training and testing process are in "homework answer/sb3_highway_merge_dqn.html"
 The comments in baseline code could be found in "homework answer/sb3_highway_dqn.ipynb".
 The visualization of the testing result has shown below.
 <p align="center">

@@ -24,8 +24,8 @@ The visualization has shown below.
     <em>ep_len_mean.</em>
 </p>
 <p align="center">
-    <img src="homework_answer/ep_raw_mean.png?raw=true"><br/>
-    <em>ep_raw_mean.</em>
+    <img src="homework_answer/ep_rew_mean.png?raw=true"><br/>
+    <em>ep_rew_mean.</em>
 </p>
 <p align="center">
     <img src="homework_answer/exploration_rate.png?raw=true"><br/>

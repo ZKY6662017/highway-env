@@ -18,6 +18,8 @@ The visualization has shown below.
     <img src="homework_answer/merge.gif?raw=true"><br/>
     <em>The merge environment.</em>
 </p>
+
+
 #### Training process
 <p align="center">
     <img src="homework_answer/ep_len_mean.png?raw=true"><br/>
